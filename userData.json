@@ -1,0 +1,53 @@
+{
+    'first_name': 'Change your',
+		'last_name': 'name',
+		'dob': '9/9/9999',
+		'days_paid_remaining': '0',
+		'female': 'true',
+		'single': 'false',
+		'seeking':
+			{
+			"playdates": "false",
+			"sitter_share": "false",
+			"exchange": "false"
+			},
+		'children':[{
+			"firstName": "Child name",
+			"age": 0,
+			"bio": "",
+			},
+		],
+			
+		'pets': 'false',
+		'smoke': 'false',
+		'medical_allergy_dietary': '',
+		'more_about_family': '',
+		'family_quote': '',
+		'fun_facts':
+			{
+			"first": "",
+			"second": "",
+			"third": ""
+			},
+		'max_match_distance': '0',
+		'prefer_nonsmoker': 'true',
+		'prefer_petfree': 'false',
+		'additional_match_comments': '',
+		'ideal_playdate_location': '',
+		'favorite_playdate_location': '',
+		'activities_my_children_like': '',
+		'additional_playdate_comments': '',
+		'hours_needed_per_month': '0',
+		'optional_fun_facts':
+			{
+			"most_proud_of": "",
+			"most_admired": "",
+			"most_afraid_of": "",
+			"skill_and_why": "",
+			"perfect_day": "" },
+    cognitoID: "userId",
+    email: "email",
+    usercity: "city",
+    chatrooms: [],
+    cell: 'cell'
+		}

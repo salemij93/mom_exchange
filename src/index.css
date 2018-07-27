@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: Snow !important;
+}
+
+header h1 {
+	color: black;
+	font-family: "Freestyle Script", cursive, Gadget, sans-serif;
+    background:#FFFFFF;
+    
+	margin-top: 20px;
+	margin-left: 0px;
+}
+
+header h5 {
+  font-family: "Arima Madurai", cursive, Gadget, sans-serif;
+}
+.topGrid {
+  padding-top: 20px !important;
+}
+
+.ui.toggle.checkbox {
+  font-size: 20px !important;
+  font-weight: bold !important; 
+}
+/*.ui.card>.image, .ui.cards>.card>.image {
+  border-style: solid;
+  border-color: lightblue;
+  border-radius: 100px !important;
+  border-right-width: 5px;
+}*/
+
+/*.ui.card>:first-child, .ui.cards>.card>:first-child {
+
+  border-style: solid;
+  border-color: lightblue;
+  border-radius: 50px !important;
+  border-right-width: 5px;
+}*/
+
+.blog-hader {
+  line-height: 1;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 25px;
+}
+
+.forumChat {
+  max-height: 500px !important;
+  overflow-y: scroll;
+  width: 100%;
+  padding: 1%;
+
+}
+
+.updateProfile {
+  max-height: 50% !important;
+}

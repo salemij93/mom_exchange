@@ -1,0 +1,82 @@
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.sideMenus {
+  width: 100%;
+  height: 400px !important;
+}
+
+.topGrid {
+  min-height: 500px !important;
+  margin-bottom: 2% !important;
+}
+
+.chats {
+  background-color: LavenderBlush !important;
+}
+.usermenu {
+  display: flex !important;
+  width: 100% !important;
+}
+
+/*.userprofilepic {
+  border-style: solid;
+  border-color: lightblue;
+  border-radius: 50px !important;
+  border-right-width: 5px;
+}*/
+
+.new-event.content {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box {
+    width: 80px;
+}
+.StripeElement {
+      display: block;
+      margin: 10px 0 20px 0;
+      width: 250px;
+      padding: 10px 14px;
+      font-size: 1em;
+      font-family: 'Source Code Pro', monospace;
+      box-shadow: rgba(50, 50, 93, 0.14902) 0px 1px 3px, rgba(0, 0, 0, 0.0196078) 0px 1px 0px;
+      border: 0;
+      outline: 0;
+      border-radius: 4px;
+      background: white;
+    }
+.stripeLabel {
+  font-size: 25px;
+}
